@@ -1,0 +1,13 @@
+{
+  "latest_version": "2.1",
+  "exe_download_url": "https://github.com/Url120creator/rb-mod-cloud/releases/latest/download/RB_Mod_Hub.exe",
+  "items": [
+    {
+      "id": "cloud_fps_extreme",
+      "name": "Ультра-Буст FPS (Облачный пресет)",
+      "type": "fflags",
+      "desc": "Готовый конфиг для максимального FPS без теней и травы",
+      "url": "https://raw.githubusercontent.com/Url120creator/rb-mod-cloud/main/ClientAppSettings.json"
+    }
+  ]
+}
